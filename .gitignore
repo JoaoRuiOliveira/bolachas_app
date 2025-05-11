@@ -1,9 +1,8 @@
 __pycache__/
 *.pyc
 *.pyo
-*.exe
-*.spec
+*.pyd
+*.db
+*.sqlite
 dist/
 build/
-dados/*.csv
-relatorios/*.pdf
